@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumberGuessingGame",
+            "request": "launch",
+            "mainClass": "NumberGuessingGame",
+            "projectName": "OIBSIP_NUMBER-GUESSING-GAME_482ebe0a"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "OIBSIP_NUMBER-GUESSING-GAME_bb225fd8"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
