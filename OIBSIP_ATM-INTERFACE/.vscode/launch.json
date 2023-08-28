@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "OIBSIP_ATM-INTERFACE_35d65b0c"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
